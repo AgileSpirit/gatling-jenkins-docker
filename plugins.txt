@@ -1,4 +1,4 @@
-gatling:1.1.0
+gatling:1.1.1
 github-api:1.66
 git-client:1.16.1
 scm-api:0.2
